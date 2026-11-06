@@ -1,0 +1,225 @@
+Lecture 1: Software and Software Engineering
+Q1. What is the main goal of software engineering?
+
+A) To manufacture hardware
+B) To produce high-quality software
+C) To eliminate programming
+D) To reduce software functionality
+
+Answer: B) To produce high-quality software
+
+Q2. What is the main aim of software engineering?
+
+A) To solve the software crisis
+B) To manufacture computers
+C) To eliminate testing
+D) To increase project costs
+
+Answer: A) To solve the software crisis
+
+Q3. Which of the following is a software crisis problem?
+
+A) Late delivery
+B) Over budget
+C) Low quality
+D) All of the above
+
+Answer: D) All of the above
+
+Q4. Software is primarily a/an —
+
+A) Physical element
+B) Intangible element
+C) Hardware component
+D) Manufactured material
+
+Answer: B) Intangible element
+
+Q5. Software is mainly —
+
+A) Manufactured
+B) Developed or engineered
+C) Physically assembled
+D) Produced from spare parts
+
+Answer: B) Developed or engineered
+
+Q6. Software cost is mainly concentrated in —
+
+A) Raw materials
+B) Manufacturing
+C) Engineering
+D) Spare parts
+
+Answer: C) Engineering
+
+Q7. Unlike hardware, software generally does not —
+
+A) Require maintenance
+B) Need updates
+C) Physically wear out
+D) Contain errors
+
+Answer: C) Physically wear out
+
+Q8. Most software continues to be —
+
+A) Custom-built
+B) Mass-manufactured like hardware
+C) Made of physical parts
+D) Identical for every user
+
+Answer: A) Custom-built
+
+Q9. What does SDLC stand for?
+
+A) Software Design Level Control
+B) Software Development Life Cycle
+C) System Development Language Code
+D) Software Data Link Connection
+
+Answer: B) Software Development Life Cycle
+
+Q10. Which is the correct sequence of SDLC activities?
+
+A) Testing → Design → Planning → Development
+B) Planning → Requirements Analysis → Design → Development → Testing → Deployment → Maintenance
+C) Design → Deployment → Planning → Testing
+D) Development → Planning → Maintenance → Design
+
+Answer: B) Planning → Requirements Analysis → Design → Development → Testing → Deployment → Maintenance
+
+Q11. Which maintenance fixes an existing problem?
+
+A) Adaptive
+B) Preventive
+C) Corrective
+D) Perfective
+
+Answer: C) Corrective
+
+Q12. Which maintenance improves software usability?
+
+A) Perfective
+B) Corrective
+C) Adaptive
+D) Preventive
+
+Answer: A) Perfective
+
+Q13. Which maintenance keeps software up to date?
+
+A) Corrective
+B) Adaptive
+C) Perfective
+D) Preventive
+
+Answer: B) Adaptive
+
+Q14. Which maintenance aims to avoid future errors?
+
+A) Corrective
+B) Adaptive
+C) Preventive
+D) Perfective
+
+Answer: C) Preventive
+
+Q15. According to the lecture, enhancement accounts for approximately what percentage of maintenance?
+
+A) 20%
+B) 40%
+C) 60%
+D) 80%
+
+Answer: D) 80%
+
+Q16. Which software controls computer hardware?
+
+A) Business software
+B) System software
+C) Web-based software
+D) Embedded software
+
+Answer: B) System software
+
+Q17. SAP and ERP are examples of —
+
+A) Business software
+B) Embedded software
+C) System software
+D) Web-based software only
+
+Answer: A) Business software
+
+Q18. What does ERP stand for?
+
+A) Enterprise Resource Planning
+B) Electronic Resource Programming
+C) Engineering Runtime Process
+D) Enterprise Routing Program
+
+Answer: A) Enterprise Resource Planning
+
+Q19. MATLAB and SPSS are examples of —
+
+A) Embedded software
+B) Engineering and scientific software
+C) System software
+D) Web-based software
+
+Answer: B) Engineering and scientific software
+
+Q20. Software used in a biometric device is —
+
+A) Business software
+B) Embedded software
+C) Personal computer software
+D) Web-based software
+
+Answer: B) Embedded software
+
+Q21. Gmail is an example of —
+
+A) System software
+B) Embedded software
+C) Web-based software
+D) Engineering software
+
+Answer: C) Web-based software
+
+Q22. Adding more programmers to a delayed project will —
+
+A) Always make it finish earlier
+B) Guarantee project success
+C) Not necessarily help the project catch up
+D) Eliminate all errors
+
+Answer: C) Not necessarily help the project catch up
+
+Q23. A general statement of objectives is always enough to start coding. This is —
+
+A) A fact
+B) A client myth
+C) A testing principle
+D) A maintenance rule
+
+Answer: B) A client myth
+
+Q24. A software system may fail because —
+
+A) It does not meet business requirements
+B) It has performance problems
+C) Users reject it
+D) All of the above
+
+Answer: D) All of the above
+
+Q25. According to the lecture, good software is —
+
+A) Discarded immediately
+B) Maintained
+C) Never updated
+D) Developed without testing
+
+Answer: B) Maintained

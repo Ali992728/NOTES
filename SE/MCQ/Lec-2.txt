@@ -1,0 +1,225 @@
+Lecture 2: Software Development Process Models
+Q1. What is a software process?
+
+A) A programming language
+B) A structured set of activities required to develop software
+C) A hardware component
+D) A testing tool only
+
+Answer: B) A structured set of activities required to develop software
+
+Q2. What is a software process model?
+
+A) An abstract representation of a software process
+B) A physical computer model
+C) A database
+D) A programming language
+
+Answer: A) An abstract representation of a software process
+
+Q3. The Waterfall model is also known as the —
+
+A) Spiral model
+B) Linear sequential model
+C) Incremental model
+D) RAD model
+
+Answer: B) Linear sequential model
+
+Q4. In the Waterfall model, the next phase starts —
+
+A) Before the previous phase finishes
+B) After the previous phase is completed
+C) Whenever the customer requests it
+D) Only after maintenance
+
+Answer: B) After the previous phase is completed
+
+Q5. What is a major disadvantage of the Waterfall model?
+
+A) It has no phases
+B) It is difficult to accommodate changing requirements
+C) It has no planning
+D) It does not support development
+
+Answer: B) It is difficult to accommodate changing requirements
+
+Q6. The Waterfall model is most suitable when —
+
+A) Requirements are well understood
+B) Requirements are completely unknown
+C) Requirements change continuously
+D) No requirements exist
+
+Answer: A) Requirements are well understood
+
+Q7. The V-model is also known as the —
+
+A) Verification and Validation model
+B) Variable Development model
+C) Visual Design model
+D) Virtual Delivery model
+
+Answer: A) Verification and Validation model
+
+Q8. The V-model is an extension of the —
+
+A) RAD model
+B) Prototyping model
+C) Waterfall model
+D) Incremental model
+
+Answer: C) Waterfall model
+
+Q9. What is the key feature of the V-model?
+
+A) It has no testing phase
+B) Each development stage has a corresponding testing phase
+C) It delivers all features at once without testing
+D) It has no requirements analysis
+
+Answer: B) Each development stage has a corresponding testing phase
+
+Q10. The Prototyping model is especially useful when —
+
+A) Requirements are not precise
+B) Requirements never change
+C) Users provide no feedback
+D) Testing is unnecessary
+
+Answer: A) Requirements are not precise
+
+Q11. What is the main purpose of a prototype?
+
+A) To eliminate customer involvement
+B) To help identify software requirements
+C) To replace all testing
+D) To avoid design
+
+Answer: B) To help identify software requirements
+
+Q12. What happens when a prototype is refined to satisfy customer needs?
+
+A) Iteration occurs
+B) Development ends permanently
+C) Requirements are deleted
+D) Testing is cancelled
+
+Answer: A) Iteration occurs
+
+Q13. In incremental development, the system is delivered —
+
+A) As a single delivery only
+B) In multiple increments
+C) Without functionality
+D) Only after maintenance
+
+Answer: B) In multiple increments
+
+Q14. Which requirements are included in early increments?
+
+A) Lowest-priority requirements
+B) Highest-priority requirements
+C) Random requirements
+D) Unnecessary requirements
+
+Answer: B) Highest-priority requirements
+
+Q15. Once development of an increment starts, its requirements are generally —
+
+A) Frozen
+B) Deleted
+C) Changed continuously
+D) Ignored
+
+Answer: A) Frozen
+
+Q16. Can requirements for later increments continue to evolve?
+
+A) Yes
+B) No
+C) Only after deployment
+D) Only after project cancellation
+
+Answer: A) Yes
+
+Q17. What does RAD stand for?
+
+A) Rapid Application Development
+B) Reliable Analysis Design
+C) Random Application Delivery
+D) Rapid Algorithm Deployment
+
+Answer: A) Rapid Application Development
+
+Q18. RAD is a type of —
+
+A) Waterfall model
+B) Incremental model
+C) V-model
+D) Linear sequential model only
+
+Answer: B) Incremental model
+
+Q19. In RAD, components or functions are developed —
+
+A) In parallel as mini-projects
+B) Only one after another
+C) Without deadlines
+D) Only after deployment
+
+Answer: A) In parallel as mini-projects
+
+Q20. What does time-boxed development mean?
+
+A) Development has a fixed time limit
+B) Development has no deadline
+C) Testing has no time limit
+D) Requirements are removed
+
+Answer: A) Development has a fixed time limit
+
+Q21. According to the lecture, RAD aims to deliver a fully functional system in —
+
+A) 30 days
+B) 60 days
+C) 90 days
+D) 180 days
+
+Answer: C) 90 days
+
+Q22. Which is the correct sequence of RAD phases?
+
+A) Construction → User Design → Cutover → Planning
+B) Requirements Planning → User Design → Construction → Cutover
+C) Cutover → Construction → Planning → User Design
+D) User Design → Requirements Planning → Cutover → Construction
+
+Answer: B) Requirements Planning → User Design → Construction → Cutover
+
+Q23. In which RAD phase do users interact with system analysts?
+
+A) Construction
+B) Cutover
+C) User Design
+D) Deployment
+
+Answer: C) User Design
+
+Q24. Which RAD phase includes testing, changeover, and user training?
+
+A) Requirements Planning
+B) User Design
+C) Construction
+D) Cutover
+
+Answer: D) Cutover
+
+Q25. What is an advantage of RAD?
+
+A) Customers get no feedback opportunities
+B) Customers can see and use components quickly and provide feedback
+C) It eliminates requirements planning
+D) It prohibits parallel development
+
+Answer: B) Customers can see and use components quickly and provide feedback

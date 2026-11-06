@@ -1,0 +1,29 @@
+.model small
+.stack 100h
+
+.DATA
+msg db 'Enter A Input:',0DH,0AH,'$'
+VAR1 db 0
+
+.CODE 
+main proc             
+    MOV ax,@DATA
+    MOV DS,ax
+             
+    MOV ah,9   ; STRING OUTPUT                
+    lea dx,msg
+    int 21h
+    
+    MOV AH,1  ;INPUT
+    INT 21H
+    MOV VAR1,AL 
+    MOV ah,2    ; SINGLE KEY OUTPUT                
+    MOV DL,VAR1
+    int 21h
+        
+    mov ah,4ch  ;RETURN TO OS
+    int 21h
+    
+    main endp
+end main
+                             
